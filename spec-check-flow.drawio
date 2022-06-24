@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-24T16:39:42.599Z" agent="5.0 (X11)" etag="ggRp6rXe3RHREmf2NmOZ" version="20.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-24T17:27:06.179Z" agent="5.0 (X11)" etag="nkV_w8sP8HoYyay6vI0m" version="20.0.2" type="github">
   <diagram id="JDs1bJ9GhXOm8RnmVCW5" name="Page-1">
     <mxGraphModel dx="1414" dy="872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -21,8 +21,8 @@
         <mxCell id="GcFN4PA_d2RixsND-hBG-3" value="dataTable" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="220" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GcFN4PA_d2RixsND-hBG-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="100" y="260" width="120" height="60" as="geometry" />
+        <mxCell id="GcFN4PA_d2RixsND-hBG-8" value="&lt;div&gt;Sample list&lt;/div&gt;&lt;div&gt;checking&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="190" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
