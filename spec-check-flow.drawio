@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-06-24T15:29:37.311Z" agent="5.0 (X11)" version="20.0.2" etag="PZgyHkF09d_cUgxaCUxF" type="github"><diagram id="JDs1bJ9GhXOm8RnmVCW5">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-24T15:30:08.687Z" agent="5.0 (X11)" etag="PaROF09RrUvvfVsLUviA" version="20.0.2" type="github">
+  <diagram id="JDs1bJ9GhXOm8RnmVCW5" name="Page-1">
+    <mxGraphModel dx="1178" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GcFN4PA_d2RixsND-hBG-1" value="&lt;div&gt;Barcode input&lt;/div&gt;&lt;div&gt;field&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
