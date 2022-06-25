@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-25T17:09:22.047Z" agent="5.0 (X11)" etag="bnD5N8wTrLfXcmaC64H0" version="20.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-25T17:31:34.873Z" agent="5.0 (X11)" etag="V2BULpcu3P28iwEwi7ru" version="20.0.2" type="github">
   <diagram id="JDs1bJ9GhXOm8RnmVCW5" name="Page-1">
-    <mxGraphModel dx="912" dy="1744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1347" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
           <mxGeometry x="190" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GcFN4PA_d2RixsND-hBG-9" value="&lt;div&gt;Reporting factory&lt;/div&gt;" style="triangle;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="360" y="260" width="130" height="150" as="geometry" />
+          <mxGeometry x="360" y="260" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="GcFN4PA_d2RixsND-hBG-10" value="before measurement" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="120" width="60" height="30" as="geometry" />
