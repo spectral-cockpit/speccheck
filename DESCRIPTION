@@ -1,0 +1,18 @@
+Package: speccheck
+Title: Interactive App for Spectroscopic Quality Control
+Version: 0.0.0.9000
+Authors@R:
+    c(person(given = "Philipp",
+             family = "Baumann",
+             email = "spectral-cockpit@proton.me", 
+             role = c("aut", "cre"),
+             comment = c(ORCID = "0000-0002-3194-8975")),
+      person(given = "Thomas", 
+             family = "Knecht",
+             email = "spectral-cockpit@proton.me",
+             role = c("aut"))
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
